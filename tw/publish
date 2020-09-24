@@ -1,0 +1,4 @@
+#!/bin/sh
+
+tiddlywiki share --build index
+mv share/output/index.html ../

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+tiddlywiki share --listen port=7123
