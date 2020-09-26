@@ -1,0 +1,8 @@
+created: 20200926171606891
+modified: 20200926171946078
+tags: 
+title: index
+type: text/vnd.tiddlywiki
+
+! Инвестиции
+<<list-links "[tag[published]tag[investments]reverse[]]">>

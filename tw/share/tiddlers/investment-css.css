@@ -1,0 +1,19 @@
+.investment-return {
+    color: #6633FF;
+    font-weight: bold;
+}
+.investment-payment {
+    color: #00CC00;
+    font-weight: bold;
+}
+.investment-horizon {
+    color: #FF6666;
+    font-weight: bold;
+}
+.investment-sum {
+    color: #CC9900;
+    font-weight: bold;
+}
+.investment-alt {
+    background-color: yellow;
+}
